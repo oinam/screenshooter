@@ -1,3 +1,7 @@
 - url: https://valinor.earth
-  output: shot.png
-  height: 800
+  output: valinor-earth.png
+  width: 1200
+
+- url: https://brajeshwar.com
+  output: brajeshwar.png
+  width: 1200
